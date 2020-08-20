@@ -1,0 +1,12 @@
+D:\Projects\ASP\Market\Market.Services\bin\Debug\netstandard2.0\Market.Services.deps.json
+D:\Projects\ASP\Market\Market.Services\bin\Debug\netstandard2.0\Market.Services.dll
+D:\Projects\ASP\Market\Market.Services\bin\Debug\netstandard2.0\Market.Services.pdb
+D:\Projects\ASP\Market\Market.Services\bin\Debug\netstandard2.0\Market.Core.dll
+D:\Projects\ASP\Market\Market.Services\bin\Debug\netstandard2.0\Market.Core.pdb
+D:\Projects\ASP\Market\Market.Services\obj\Debug\netstandard2.0\Market.Services.csprojAssemblyReference.cache
+D:\Projects\ASP\Market\Market.Services\obj\Debug\netstandard2.0\Market.Services.AssemblyInfoInputs.cache
+D:\Projects\ASP\Market\Market.Services\obj\Debug\netstandard2.0\Market.Services.AssemblyInfo.cs
+D:\Projects\ASP\Market\Market.Services\obj\Debug\netstandard2.0\Market.Services.csproj.CoreCompileInputs.cache
+D:\Projects\ASP\Market\Market.Services\obj\Debug\netstandard2.0\Market.Services.csproj.CopyComplete
+D:\Projects\ASP\Market\Market.Services\obj\Debug\netstandard2.0\Market.Services.dll
+D:\Projects\ASP\Market\Market.Services\obj\Debug\netstandard2.0\Market.Services.pdb
